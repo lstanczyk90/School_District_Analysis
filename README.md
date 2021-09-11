@@ -157,7 +157,7 @@ What follows is a before and after comparison of our results using the changes n
 
     **Old Table**
 
-    ![alt text](https://github.com/lstanczyk90/School_District_Analysis/blob/1dbc5341310fb481ff3a6e63157637a235e7bf51/Resources/Top%20Schools%20Old.PNG)
+    ![alt text](https://github.com/lstanczyk90/School_District_Analysis/blob/71ad5295ea136cd766f5a515c6390495ca753403/Resources/Top%20Schools%20Old.PNG)
 
     **New Table**
 
@@ -223,4 +223,4 @@ Perhaps the biggest change was for both the Math Scores table and Reading Scores
 
 Additionally, there were very minor changes in the District Summary report (the first one discussed in the bullets above). Specifically, under the original analysis, the average math and reading scores were 79.0 and 81.9, respectively. Under the new analysis, Math Scores changed slightly to 78.9. Again, due to rounding, the impact is negligible. 
 
-Another signficant change that occurred and had to be corrected during the analysis 
+Lastly, whereas Thomas High's position as the number two performing overall school did not change, some of the numbers (as evidenced in the image above) changed. As an example, whereas the previous Overall Passing Percentage was 90.48012%, the new percentage became 90.630324. There were similar changes in every category.
